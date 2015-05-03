@@ -50,6 +50,6 @@ end);
 
 throwmsg=Instance.new'Message';
 throwmsg.Parent=loluser.PlayerGui;
-throwmsg.Text='Trekker Utl Loaded	Made by ("Iruc")';
-wait(3)
+throwmsg.Text='Trekker Utl Loaded	Created by Iruc Controls are r,t,v,b';
+wait(5)
 game.Players.localPlayer.PlayerGui.Message:Remove()
